@@ -1,6 +1,6 @@
 import Layout from "../components/Layout"
-import {Grid, Row, Col,FormGroup} from 'react-bootstrap'
-import GroupCreation from "../components/GroupCreation"
+import {Grid, Row, Col} from 'react-bootstrap'
+import GroupCreation from "../components/GroupDetails/GroupCreation"
 
 const Group = (props) => (
   <Layout>
