@@ -1,0 +1,30 @@
+{
+  "name": "microfinance-React-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "repository": "git+https://github.com/Ramkumar23/microfinance-React-ui.git",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramkumar23/microfinance-React-ui/issues"
+  },
+  "homepage": "https://github.com/Ramkumar23/microfinance-React-ui#readme",
+  "dependencies": {
+    "browserify": "^16.1.0",
+    "css-loader": "^0.28.9",
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^5.0.0",
+    "react": "^16.2.0",
+    "react-bootstrap": "^0.32.1",
+    "react-bootstrap-table": "^4.3.1",
+    "react-dom": "^16.2.0",
+    "react-multistep": "^3.0.2",
+    "react-table": "^6.7.6",
+    "style-loader": "^0.20.2"
+  }
+}
