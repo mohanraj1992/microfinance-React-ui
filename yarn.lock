@@ -3892,7 +3892,7 @@ react-bootstrap@^0.32.1:
     uncontrollable "^4.1.0"
     warning "^3.0.0"
 
-react-dom@^16.2.0, react-dom@^16.x.x:
+react-dom@^16.2.0:
   version "16.2.0"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.2.0.tgz#69003178601c0ca19b709b33a83369fe6124c044"
   dependencies:
@@ -3917,13 +3917,6 @@ react-modal@^3.1.7:
     exenv "^1.2.0"
     prop-types "^15.5.10"
     warning "^3.0.0"
-
-react-multistep@^3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/react-multistep/-/react-multistep-3.0.2.tgz#422e408a6b28db1ffb29f6c257060d9a83466427"
-  dependencies:
-    react "^16.x.x"
-    react-dom "^16.x.x"
 
 react-overlays@^0.8.0:
   version "0.8.3"
@@ -3954,12 +3947,6 @@ react-stand-in@^4.0.0-beta.18:
   dependencies:
     shallowequal "^1.0.2"
 
-react-table@^6.7.6:
-  version "6.7.6"
-  resolved "https://registry.yarnpkg.com/react-table/-/react-table-6.7.6.tgz#3f9e3b308328ceb04ef93a47babefaba2619c905"
-  dependencies:
-    classnames "^2.2.5"
-
 react-transition-group@^2.0.0, react-transition-group@^2.2.0:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/react-transition-group/-/react-transition-group-2.2.1.tgz#e9fb677b79e6455fd391b03823afe84849df4a10"
@@ -3971,7 +3958,7 @@ react-transition-group@^2.0.0, react-transition-group@^2.2.0:
     prop-types "^15.5.8"
     warning "^3.0.0"
 
-react@^16.2.0, react@^16.x.x:
+react@^16.2.0:
   version "16.2.0"
   resolved "https://registry.yarnpkg.com/react/-/react-16.2.0.tgz#a31bd2dab89bff65d42134fa187f24d054c273ba"
   dependencies:
