@@ -1,4 +1,4 @@
-****# microfinance-React-ui
+# microfinance-React-ui
 
 **Step to Install** 
 
