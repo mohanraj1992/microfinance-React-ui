@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "next",
-    "build": "next"
+    "build": "next",
+    "start": "next start"
   },
   "repository": "git+https://github.com/Ramkumar23/microfinance-React-ui.git",
   "keywords": [],
